@@ -1,1 +1,1 @@
-[a link]chat-app-todo-list.netlify.app
+[deploy](chat-app-todo-list.netlify.app)
