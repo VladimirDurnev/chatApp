@@ -1,5 +1,5 @@
 import style from './From.module.css'
-import React, { useState } from "react";
+import { useState } from "react";
 import { useAppDispatch } from "../../Redux/hooks";
 import { addItem } from "../../Redux/dataSlice";
 import { v4 as uuidv4 } from "uuid";
