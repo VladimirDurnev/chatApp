@@ -1,0 +1,14 @@
+.todoItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+}
+span {
+    cursor: grab;
+    min-width: 400px;
+}
+.todoItem_input{
+    all: unset;
+    min-width: 300px;
+}
